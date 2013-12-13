@@ -1,0 +1,1 @@
+insert into pepito(id, valor) values (1,'pepito');
