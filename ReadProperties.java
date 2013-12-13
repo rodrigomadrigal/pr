@@ -7,7 +7,7 @@ public class ReadProperites {
 	
 	private String mensaje;
 
-
+//meto un comentario
 	private void readConfiguration()throws IOException {
 
 		Properties config = new Properties();
